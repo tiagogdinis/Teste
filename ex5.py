@@ -1,0 +1,5 @@
+print("Introduza dois valores para realizar a divisão")
+a = float(input("Introduza um valor\n"))
+b = float(input("Introduza outro valor\n"))
+
+print("O valor da divisão",a/b)
